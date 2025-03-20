@@ -99,3 +99,4 @@ xlsxwriter==3.0.3
 robotframework-jsonlibrary==0.5
 matplotlib==3.10.1
 cx-oracle==8.3.0
+imagehash==4.3.2
