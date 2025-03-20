@@ -101,3 +101,4 @@ pdfreader==0.1.15
 robotframework-jsonlibrary==0.5
 matplotlib==3.10.1
 cx-oracle==8.3.0
+textract==1.6.5
