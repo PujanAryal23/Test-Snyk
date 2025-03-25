@@ -10,7 +10,7 @@ readline==8.1.2
 setuptools==70.0.0
 sqlite==3.38.3
 tk==8.6.11
-wheel==0.45.1
+wheel==0.38.0
 xz==5.2.5
 zlib==1.2.12
 
