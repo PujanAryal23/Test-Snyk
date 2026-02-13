@@ -25,7 +25,7 @@ cffi==1.15.0
 chardet==3.0.4
 charset-normalizer==2.0.12
 compressed-rtf==1.0.6
-cryptography==44.0.2
+cryptography==46.0.5
 docx2txt==0.8
 ebcdic==1.1.1
 et-xmlfile==1.1.0
